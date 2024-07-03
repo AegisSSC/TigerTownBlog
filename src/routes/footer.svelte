@@ -6,6 +6,7 @@
 
 <footer> 
     <p>{config.title}&copy{new Date().getFullYear()}</p>
+    <p> v:{config.version} </p>
 </footer>
 
 
