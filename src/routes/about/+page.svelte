@@ -1,29 +1,14 @@
 <script lang="ts">
-	export let data
+    export let data    
 </script>
 
 <h1> About </h1>
-
-<!-- <p> Pee Pee Poo Poo </p> -->
-
 
 
 
 <svelte:head>
 	<title>GitHub API</title>
 </svelte:head>
-
-<h1>GitHub Contributions</h1>
-
-<table>
-	{#each data.contributions as row}
-		<tr>
-			{#each row as day}
-				<td data-level={day?.level} />
-			{/each}
-		</tr>
-	{/each}
-</table>
 
 
 
@@ -38,24 +23,43 @@
     
 </p>
 
+<h2>GitHub Contributions</h2>
+<table>
+	{#each data.contributions as row}
+		<tr>
+			{#each row as day}
+				<td data-level={day?.level} />
+			{/each}
+		</tr>
+	{/each}
+</table>
+
+
 
 <style>
+
 	:global(html, body) {
 		height: 100%;
 	}
 
-	:global(body) {
+	/* :global(body) {
 		display: grid;
-		place-content: center;
 		font-family: sans-serif;
 		color: hsl(220 10% 98%);
 		background-color: hsl(220 10% 10%);
-	}
+	} */
 
 	h1 {
 		text-align: center;
 	}
+	h2 {
+		text-align: center;
+	}
 
+
+	table{
+		place-content: center
+	}
 	td {
 		padding: 0.4rem;
 		border-radius: 2px;

@@ -3,8 +3,8 @@ title: The First Big One
 description: The First Project
 date: '2024-7-14'
 categories:
-    - sveltekit
-    - svelte
+    - C#
+    - Project Management
 
 published: true
 ---

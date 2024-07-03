@@ -44,10 +44,10 @@ function parseContributions(html: string){
 
         const currentRow = []
         for(const day of days) {
-            console.log(`month: ${day.getAttribute('data-date')?.split('-')[1]}`)
-            console.log(`day: ${day.getAttribute('data-date')?.split('-')[2]}`)
-            console.log(`year: ${day.getAttribute('data-date')?.split('-')[0]}`)
-            console.log(`level: ${day.getAttribute('data-level')}`)
+            // console.log(`month: ${day.getAttribute('data-date')?.split('-')[1]}`)
+            // console.log(`day: ${day.getAttribute('data-date')?.split('-')[2]}`)
+            // console.log(`year: ${day.getAttribute('data-date')?.split('-')[0]}`)
+            // console.log(`level: ${day.getAttribute('data-level')}`)
 
             if(!(day.getAttribute('data-date') === null) || !(day.getAttribute('data-level')=== null)){
                 const contribution = {

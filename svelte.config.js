@@ -27,7 +27,7 @@ const mdsvexOptions = {
 	}
 	},
 	remarkPlugins: [remarkUnwrapImages, [remarkToc, {tight: true}]],
-	rehypePlugins: [rehypeSlug]
+	rehypePlugins: [rehypeSlug],
 }
 
 /** @type {import('@sveltejs/kit').Config} */

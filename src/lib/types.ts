@@ -8,3 +8,11 @@ export type Post = {
     categories: Categories
     published: boolean
 }
+
+
+export type Contributions = {
+    month: string,
+    day: number,
+    year: number,
+    level: number,
+}

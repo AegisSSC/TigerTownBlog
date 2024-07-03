@@ -3,8 +3,7 @@ title: Unemployment
 description: Unemployment and What it Means to Me
 date: '2024-7-1'
 categories:
-    - sveltekit
-    - svelte
+    - life
 
 published: true
 ---

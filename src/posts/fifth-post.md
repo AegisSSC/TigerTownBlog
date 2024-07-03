@@ -3,8 +3,10 @@ title: My Skunkworks
 description: My Skunkworks project and why not everything is special
 date: '2024-7-28'
 categories:
-    - sveltekit
-    - svelte
+    - rust
+    - full-stack
+    - FastFetch
+    - 2024
 
 published: true
 ---

@@ -3,8 +3,10 @@ title: Sprinting through Retrospectives
 description: Project Rapid Fire
 date: '2024-7-21'
 categories:
-    - sveltekit
-    - svelte
+    - C#
+    - Github
+    - Infrastructure
+    - DevOps
 
 published: true
 ---
