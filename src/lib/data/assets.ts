@@ -93,7 +93,7 @@ export default Assets;
 
 let currentTheme: boolean;
 
-theme.subscribe((v) => (currentTheme = v));
+// theme.subscribe((v) => (currentTheme = v));
 
 export const getAssetURL = (asset: Asset): string => {
 	return typeof asset === 'string' ? asset : currentTheme ? asset.dark : asset.light;
