@@ -10,9 +10,9 @@ export const MY_EDUCATIONS: Array<Education> = [
 		logo: Assets.ClemsonAcademic, 			//Add in the Clemson University Crest
 		name: '',
 		organization: 'Clemson University',
-		period: { from: new Date(2018, 1, 1), to: new Date(2022, 1, 1) },
+		period: { from: new Date(2018, 1, 1), to: new Date(2022, 5, 1) },
 		shortDescription: 'Minor in Engineering',
-		slug: 'dummy-education-item',
+		slug: 'clemson-education-item',
 		subjects: ['Computer Architecture', 'Algorithms and Data Structures', 'C++', 'Java', 'English', 'German', 'GPU Programming', 'Computer Vision', 'High Performance Computing', 'Linear Algebra', 'Operating Systems' ]
 	},
 	{
@@ -24,7 +24,7 @@ export const MY_EDUCATIONS: Array<Education> = [
 		organization: 'White Knoll High',
 		period: { from: new Date(2014, 0, 1), to: new Date(2018, 1,1) },
 		shortDescription: '',
-		slug: 'dummy-education-item-2',
+		slug: 'high-school-education-item-2',
 		subjects: ['C', 'Computer Architecture','Algebra', 'Calculus', 'Geometry', 'German']
 	},
 ];
