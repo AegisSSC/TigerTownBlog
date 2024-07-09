@@ -32,4 +32,34 @@ Ultimately, the Zettelkasten was at the center of it and it was what I was most 
 
 A Zettelkasten is a method for creating and storing notes in a way that allows you to quickly reference information and link ideas together to synthesize ideas later. The idea originates from a German Sociologist Niklas Luhmann by which he had a physical set of note cards that he organized into a drawer system. This system allowed him to store notes of various types to later process into more formal and permanent notes to reference later when it comes time to write up an article. The system is comprised of two containers a Reference Box, and a Main Box. The Reference Box contains permanent notes about a wide variety of topics that are sorted by keywords that you would want to associate all the ideas together with.  The "Main Box" is meant to be much larger and contains a wide variety of ideas, theories, arguments, and discussions that can then rely on more polished notes in the Reference Box for support.  
 
-For Example of how this system works. This article originated as an idea. The original idea was about how my workflow has changed since adopting this methodology. The permanent note that I reference about Zettelkasten, Niklas Luhmann, productivity, and another about Mischa's Video that were all tied to Zettelkasten as the main idea. 
+For Example of how this system works. This article originated as an idea. The original idea was about how my workflow has changed since adopting this methodology. The permanent note that I reference about Zettelkasten, Niklas Luhmann, productivity, and another about Mischa's Video that were all tied to Zettelkasten as the main idea. This allows for more powerful recall since I could access all of this information in the future simply by recalling a single central idea. 
+
+
+## How does my System Differ?
+Well, I didn't quite adopt the original system. After all, since you are writing out every thought, there's a lot to write, and I don't have the time nor patience to write all of it down and organize physical notes. So, a huge difference that I did was to adopt an electronic version of the system. 
+Additionally, I broke up my two boxes into five. FIVE?!?! Yes, Five. 
+
+- Inbox:
+    - My Inbox is where all of my unsorted notes and ideas live. 
+    - Notes should only live here for up to a maximum of a week. 
+
+- Projects:
+    - This is where I keep Reference material that pertains to a specific active project. 
+    - Notes here should be more polished, but aren't set in stone. 
+
+- Areas:
+    - While it is currently not in use, this is where information pertaining to "Areas of Interest" will live. 
+
+- Resources:
+    - Contains notes that don't pertain to any particular project, but are still used. 
+    - Contains Notes that are related to more personal information
+    - Contains Ideas that could be taken at a later time and moved into Projects after another one comes out. 
+    - Contains Reference Notes to things I am currently learning. 
+
+- Archive:
+    - Contains Polished notes. 
+    - Retired projects live here.
+    - Finished Projects live here.
+
+
+Ultimately, this is meant to be a living document as is everything I touch, but this is how I currently plan on using the system. I think that once a year I will revisit this topic and show you how this has changed. 
