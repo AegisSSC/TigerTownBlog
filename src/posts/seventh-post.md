@@ -10,13 +10,17 @@ categories:
 published: true
 ---
 
+
+## Table of Contents
+
+
 # Zweites-Gehirn
 
 It's literally the second brain. 
 
 So during all of my time learning the thing that I learned the least about was how to learn. You know, the process in which you are supposed to learn things. It's never really talked about until after you're away from school, or at least it was for me. 
 
-Every year around the summer time I do a weekly or monthly dive into productivity and get swallowed whole by the ocean of content about productivity. After going through this phase for the fourth time, I am here to say that most of it is not actually beneficial. A lot of it is people who are showing you what they do and not really diving deep into why it works for them or how you can utilize the underlying concepts. It's just "Hey look at me! Copy what I am doing and you'll be as successful as I am doing X Job for Y major company that you recognize. Completely missing that these people have iterated over their own system for multiple years and are only showing you a {whatever youtube's algorithm currently says is the minimum time slot to be promoted} version of what could be years of work refining a system over time. Or that they are the type of person that doesn't need a super customized system and so they can put together a quick sponsored piece for a productivity software and it works for them. 
+Every year around the summer time I do a weekly or monthly dive into productivity and get swallowed whole by the ocean of content about productivity. After going through this phase for the fourth time, I am here to say that most of it is not actually beneficial. A lot of it is people who are showing you what they do and not really diving deep into why it works for them or how you can utilize the underlying concepts. It's just "Hey look at me! Copy what I am doing and you'll be as successful as I am doing X Job for Y major company that you recognize. Completely missing that these people have iterated over their own system for multiple years and are only showing you a (whatever youtube's algorithm currently says is the minimum time slot to be promoted) version of what could be years of work refining a system over time. Or that they are the type of person that doesn't need a super customized system and so they can put together a quick sponsored piece for a productivity software and it works for them. 
 
 It looks so easy to just passively listen to what they have to say, and take the shill and try the product. I am speaking from experience when it comes to this stuff. I can hold onto a project for a week or two before I toss it and return to what I was doing and resign until the next time that I feel an urge to come back to this topic. 
 
