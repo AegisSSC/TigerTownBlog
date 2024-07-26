@@ -11,14 +11,50 @@
 <svelte:head>
     <title>{config.title}</title>
 </svelte:head>
+<div class="row">
+    <div class = "columns">
+        <div class = "column">
+            Icon Goes here
+            This is where my Profile photo will go. I want this to be padded to separate this from the bio 
+        </div>
+        <div class = "column">
+            <section> 
+                <h2> About me </h2>
+                <p> 
+                    Welcome to my Sveltekit Blog for Caffeine, and Software Development. Attached is my blog as well as a little big about me. 
+                    I am currently working on expanding out this project with new ideas as I experiment.
+                </p>
+            
+            </section>
+        </div>
+    </div>
+</div>
 
-<section> 
-    <p> Welcome to my Sveltekit Blog for Caffeine, and Software Development. Attached is my blog as well as a little big about me. 
-        I am currently working on expanding out this project with new ideas as I experiment.
-    </p>
-
-</section>
-
+<div class="row">
+    <div class = "columns">
+        <div class = "column">
+            <h2> At a Glance </h2>
+            <section> 
+                Current Job
+            </section>
+            <section> 
+                Education
+            </section><section> 
+                Interests
+            </section>
+        </div>
+        <div class = "column">
+            <section> 
+                <h2> Most Recent Blog Posts </h2>
+                <p> 
+                    Welcome to my Sveltekit Blog for Caffeine, and Software Development. Attached is my blog as well as a little big about me. 
+                    I am currently working on expanding out this project with new ideas as I experiment.
+                </p>
+            
+            </section>
+        </div>
+    </div>
+</div>
 
 
 
@@ -51,5 +87,17 @@
     .description {
         margin-top: var(--size-3);
 
+    }
+
+
+    .columns {
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+        width: 100%;
+    }
+
+    .column {
+        flex: 50%;
     }
 </style>
