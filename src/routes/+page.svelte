@@ -21,8 +21,8 @@
             <section> 
                 <h2> About the project </h2>
                 <p> 
-                    Welcome to my Software Development Blog powered by caffeine. I plan on releasing weekly or bi-weekly updates on projects that I am currently working on.  
-                    I am currently working on expanding out this project with new ideas as I experiment.
+                    Welcome to my Software Development Blog powered by caffeine. I plan on releasing monthly updates on projects that I am currently working on.  
+                    I am currently working on expanding out this project with new ideas as I experiment. Additionally, I am actively seeking a new primary role as a Software Engineer. 
                 </p>
             
             </section>
@@ -35,12 +35,12 @@
         <div class = "column">
             <h2> At a Glance </h2>
             <section> 
-                Current Job
+                Current Job: Founder of Aegis Research Labs
             </section>
             <section> 
-                Education
+                Education: Bachelors of Science in Computer Science
             </section><section> 
-                Interests
+                Interests: Software Development, Data Science, Motorsports, Football
             </section>
         </div>
         <div class = "column">
@@ -94,6 +94,7 @@
         flex-direction: row;
         flex-wrap: wrap;
         width: 100%;
+        padding: 5px;
     }
 
     .column {
