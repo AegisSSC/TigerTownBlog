@@ -1,6 +1,6 @@
 import { dev } from "$app/environment"
 
-export const title = 'AegisResearchLabs'
+export const title = 'Kaizen Technology '
 export const description = 'Sveltekit Blog for Caffeine, and Software Development'
 export const url = dev ? 'http://localhost:5173/' : 'url'
 

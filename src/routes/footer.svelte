@@ -8,13 +8,13 @@
     <p>{config.title}&copy{new Date().getFullYear()}</p>
     <p> v:{config.version} </p>
     <li> 
+        <a href="/about"> About </a>
+    </li>
+    <li> 
         <a href="https://github.com/AegisSSC" target="_blank"> Github </a>
     </li>
     <li> 
         <a href="https://www.linkedin.com/in/brandon-wingard-4886b7148/" target="_blank"> LinkedIn </a>
-    </li>
-    <li> 
-        <a href="/about"> About </a>
     </li>
 </footer>
 

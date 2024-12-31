@@ -2,8 +2,24 @@ import Assets from './data/assets';
 import { getSkills } from './skills.params';
 import { ContractType, type Experience } from './types';
 
-// !TODO: Get the Icons for FastFetch, Freelancer, CCIT, CUCECAS EE, CUCECAS ME
+// !TODO: Get the Icons for SCT, FastFetch, Freelancer, CCIT, CUCECAS EE, CUCECAS ME
 const MY_EXPERIENCES: Array<Experience> = [
+	{
+		slug: 'software-sct',
+		company: 'Supply Chain Technology LLC',
+		description: 'WMS Installation and Software Engineering.',
+		contract: ContractType.FullTime,
+		type: 'Software Development',
+		location: 'Mauldin, South Carolina, USA',
+		period: { from: new Date(2024, 10, 1) },
+		skills: getSkills('clang', 'csharp', 'python'),
+		name: 'WMS Software Specialist',
+		color: '#ffffff',
+		links: [],
+		logo: Assets.Unknown,
+		shortDescription: ''
+	},
+
 	{
 		slug: 'software-fastfetch',
 		company: 'FastFetch Corp.',
@@ -11,7 +27,7 @@ const MY_EXPERIENCES: Array<Experience> = [
 		contract: ContractType.FullTime,
 		type: 'Software Development',
 		location: 'Seneca, South Carolina, USA',
-		period: { from: new Date(2022, 5, 6) },
+		period: { from: new Date(2022, 5, 6),  to: new Date(2024,5,6) },
 		skills: getSkills('clang', 'csharp', 'python', 'rust'),
 		name: 'Software Engineer',
 		color: '#ffffff',
